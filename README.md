@@ -1,5 +1,4 @@
-# İzmir Uygulamalı Veri Bilimi, Homework 1
-E-Reader cihaz özellikleri ve betimsel istatistikleri.
+![banner](https://i.hizliresim.com/0rixGc.png)
 İncelenen değerler;
 * Marka
 * Model
