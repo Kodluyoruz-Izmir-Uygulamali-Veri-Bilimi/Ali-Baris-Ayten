@@ -1,4 +1,4 @@
-![banner](https://i.hizliresim.com/0rixGc.png)
+### Ödev1 : E-reader Cihaz Özellikleri ve Betimsel İstatistikleri
 İncelenen değerler;
 * Marka
 * Model
@@ -7,3 +7,4 @@
 * Ağırlık
 * Pil
 * Depolama
+
