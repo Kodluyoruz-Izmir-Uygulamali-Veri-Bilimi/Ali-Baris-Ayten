@@ -1,4 +1,4 @@
-### Ödev1 : E-reader Cihaz Özellikleri ve Betimsel İstatistikleri
+### Ödev 1: E-reader Cihaz Özellikleri ve Betimsel İstatistikleri
 İncelenen değerler;
 * Marka
 * Model
@@ -8,3 +8,5 @@
 * Pil
 * Depolama
 
+---
+### Ödev 2: Titanic Data'sının Analizi ve Eksik Veri Doldurma
